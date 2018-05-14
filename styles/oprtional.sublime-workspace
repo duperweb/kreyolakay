@@ -1,0 +1,717 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"da",
+				"datetime-local"
+			],
+			[
+				"date",
+				"datetime"
+			],
+			[
+				"te",
+				"text"
+			],
+			[
+				"e",
+				"embed\tTag"
+			],
+			[
+				"r",
+				"rgb()"
+			],
+			[
+				"bo",
+				"box-sizing"
+			],
+			[
+				"max",
+				"max-width"
+			],
+			[
+				"c",
+				"columns"
+			],
+			[
+				"s",
+				"space-around"
+			],
+			[
+				"al",
+				"align-content"
+			],
+			[
+				"flex",
+				"flex"
+			],
+			[
+				"ini",
+				"inherit"
+			],
+			[
+				"co",
+				"color"
+			],
+			[
+				"a",
+				"auto"
+			],
+			[
+				"ove",
+				"overflow-wrap"
+			],
+			[
+				"u",
+				"url()"
+			],
+			[
+				"l",
+				"listItems"
+			],
+			[
+				"sho",
+				"ShowMenuContact"
+			],
+			[
+				"d",
+				"document"
+			],
+			[
+				"mi",
+				"mir\tmin-resolution: ${1:res};"
+			],
+			[
+				"gete",
+				"getElementsByTagName"
+			],
+			[
+				"p",
+				"personarray"
+			],
+			[
+				"f",
+				"flex"
+			],
+			[
+				"mar",
+				"margin"
+			],
+			[
+				"min",
+				"min-width"
+			],
+			[
+				"oncl",
+				"onclick\tAttr"
+			],
+			[
+				"my",
+				"myObject"
+			],
+			[
+				"for",
+				"for\tfor (…) {…}"
+			],
+			[
+				"get",
+				"getElementByClassName"
+			],
+			[
+				"ge",
+				"getElementByClassName"
+			],
+			[
+				"cl",
+				"clear"
+			],
+			[
+				"n",
+				"noframes\tTag"
+			],
+			[
+				"su",
+				"summary\tTag"
+			],
+			[
+				"tr",
+				"transparent"
+			],
+			[
+				"font",
+				"font-size"
+			],
+			[
+				"bar",
+				"background"
+			],
+			[
+				"dr",
+				"dropdown \tBootstrap 4 Class"
+			],
+			[
+				"di",
+				"display"
+			],
+			[
+				"drop",
+				"dropdown-menu \tBootstrap 4 Class"
+			],
+			[
+				"j",
+				"jQuery"
+			],
+			[
+				"fo",
+				"for\tfor (…) {…}"
+			],
+			[
+				"if",
+				"ife\tif … else"
+			],
+			[
+				"ta",
+				"table"
+			],
+			[
+				"ma",
+				"margin"
+			],
+			[
+				"wi",
+				"width"
+			],
+			[
+				"list",
+				"list-style"
+			],
+			[
+				"fon",
+				"font-size"
+			],
+			[
+				"backgroun",
+				"background-color"
+			],
+			[
+				"text-a",
+				"text-align"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": "heading.css",
+			"settings":
+			{
+				"buffer_size": 663,
+				"encoding": "UTF-8",
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"contents": "rgb(0, 0, 23);\nrgb(0, 0, 34);\n#051b35;\n#091f38;\n#1c2c3e;\n#3f6590\nrgb(18, 34, 62)\n#082444\n#08244499;\nrgb(22, 72, 122)\nrgb(0, 64,    128)",
+			"file": "/C/Users/jwduper/Desktop/web_projects/test_sites/optional/bluecolor.txt",
+			"file_size": 142,
+			"file_write_time": 131342685481181744,
+			"settings":
+			{
+				"buffer_size": 135,
+				"line_ending": "Windows",
+				"name": "rgb(0, 0, 23);"
+			}
+		},
+		{
+			"file": "/C/Users/jwduper/Desktop/web_projects/test_sites/optional/index.html",
+			"settings":
+			{
+				"buffer_size": 6666,
+				"encoding": "UTF-8",
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "/C/Users/jwduper/Desktop/web_projects/test_sites/optional/mizik.html",
+			"settings":
+			{
+				"buffer_size": 3525,
+				"encoding": "UTF-8",
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "boxestyle.css",
+			"settings":
+			{
+				"buffer_size": 1597,
+				"encoding": "UTF-8",
+				"line_ending": "Unix"
+			}
+		}
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 78.0,
+		"last_filter": "default",
+		"selected_items":
+		[
+			[
+				"default",
+				"Preferences: Package Control Settings – Default"
+			],
+			[
+				"css",
+				"Indentation: Convert to Spaces"
+			],
+			[
+				"pack",
+				"Package Control: Add Repository"
+			],
+			[
+				"skin",
+				"Preferences: Package Control Settings – Default"
+			],
+			[
+				"box",
+				"Boxy Theme: Preferences"
+			],
+			[
+				"fi",
+				"A File Icon: Changelog"
+			],
+			[
+				"Package Control: ",
+				"Package Control: Install Package"
+			]
+		],
+		"width": 382.0
+	},
+	"console":
+	{
+		"height": 153.0,
+		"history":
+		[
+			"var x = document.getElementByClassName('contact');",
+			"var y;",
+			"y",
+			"34+4",
+			"log(True)",
+			"log",
+			"install",
+			"var zoe = new person ('duperoy', 'dieuseul', 23, 183, 120, 'brown', 'haitian', 'jazz');",
+			"console.log_commands(True)",
+			"console.log_commands",
+			"open_bar",
+			"import urllib.request,os,hashlib; h = 'df21e130d211cfc94d9b0905775a7c0f' + '1e3d39e33b79698005270310898eea76'; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) ); by = urllib.request.urlopen( 'http://packagecontrol.io/' + pf.replace(' ', '%20')).read(); dh = hashlib.sha256(by).hexdigest(); print('Error validating download (got %s instead of %s), please try manual install' % (dh, h)) if dh != h else open(os.path.join( ipp, pf), 'wb' ).write(by)"
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"expanded_folders":
+	[
+		"/C/Users/jwduper/Desktop/web_projects/test_sites/optional",
+		"/C/Users/jwduper/Desktop/web_projects/test_sites/optional/styles"
+	],
+	"file_history":
+	[
+		"/C/Users/jwduper/Desktop/web_projects/test_sites/optional/referans.html",
+		"/C/Users/jwduper/Desktop/web_projects/test_sites/optional/styles/reset.css",
+		"/C/Users/jwduper/Desktop/web_projects/test_sites/optional/styles/referanstyle.css",
+		"/C/Users/jwduper/Desktop/web_projects/test_sites/optional/styles/biyo.css",
+		"/C/Users/jwduper/Desktop/web_projects/test_sites/optional/styles/mainstylesheet.css",
+		"/C/Users/jwduper/Desktop/web_projects/test_sites/optional/styles/boxestyle.css",
+		"/C/Users/jwduper/Desktop/web_projects/test_sites/optional/mizik.html",
+		"/C/Users/jwduper/Desktop/web_projects/Templates/onclick-dropdown/index.html",
+		"/C/Program Files (x86)/VideoLAN/VLC/skins/skin.dtd",
+		"/C/Users/jwduper/Desktop/web_projects/test_sites/optional/index.html",
+		"/C/Users/jwduper/Desktop/web_projects/practices/allhtmltags.html",
+		"/C/Users/jwduper/Desktop/web_projects/test_sites/optional/biyografi.html",
+		"/C/Users/jwduper/Desktop/web_projects/test_sites/optional/styles/heading.css",
+		"/C/Users/jwduper/Downloads/bower-master/bower-master/README.md",
+		"/C/Users/jwduper/Downloads/bower-master/bower/package.json",
+		"/C/Users/jwduper/Downloads/composer.phar",
+		"/C/Users/jwduper/Desktop/web_projects/test_sites/optional/referanstou.html",
+		"/C/Users/jwduper/Desktop/web_projects/test_sites/optional/index - Copy.html",
+		"/C/Users/jwduper/Desktop/web_projects/test_sites/optional/styles/responsive.css",
+		"/C/Users/jwduper/Desktop/web_projects/test_sites/optional/styles/mainstyle.css",
+		"/C/Users/jwduper/Desktop/web_projects/js practices/jscript.js",
+		"/C/Users/jwduper/Desktop/web_projects/js practices/index.html",
+		"/C/Users/jwduper/Desktop/web_projects/mozilla develloper network/beginner-html-site-styled-gh-pages/index.html",
+		"/C/Users/jwduper/Desktop/web_projects/test_sites/optional/scripts/mainscript.js",
+		"/C/Users/jwduper/Desktop/web_projects/js practices/jsinone.html",
+		"/C/Users/jwduper/Downloads/der.html",
+		"/C/Users/jwduper/Downloads/HTML-to-APK-master/HTML-to-APK-master/README.md",
+		"/C/Users/jwduper/AppData/Roaming/Sublime Text 3/Packages/Package Control/Package Control.sublime-settings",
+		"/C/Users/jwduper/Desktop/web_projects/js practices/objectarray.html",
+		"/C/Users/jwduper/Desktop/web_projects/js practices/objectarray.js",
+		"/C/Users/jwduper/Desktop/web_projects/test_sites/duperweb/index.html",
+		"/C/Users/jwduper/Desktop/web_projects/test_sites/duperweb/css/coursesbox.css",
+		"/C/Users/jwduper/Desktop/web_projects/test_sites/duperweb/css/headnfooter.css",
+		"/C/Users/jwduper/Desktop/web_projects/test_sites/duperweb/css/homestyle.css",
+		"/C/Users/jwduper/Desktop/web_projects/practices/modelmodern.html",
+		"/C/Users/jwduper/Desktop/web_projects/practices/styles/modelmodern.css",
+		"/C/Users/jwduper/Desktop/web_projects/practices/styles/foru.scss",
+		"/C/Users/jwduper/Desktop/web_projects/practices/styles/collapseflexbox.html",
+		"/C/Users/jwduper/Desktop/web_projects/practices/modelagain.html",
+		"/C/Users/jwduper/Desktop/web_projects/Templates/Free-CSS/bs-twopage/index.html",
+		"/C/Users/jwduper/Desktop/web_projects/Templates/Free-CSS/bs-twopage/assets/js/jquery-1.10.2.js",
+		"/C/Users/jwduper/Desktop/web_projects/js practices/objectsjavascript.html",
+		"/C/Users/jwduper/Desktop/web_projects/js practices/object.html",
+		"/C/Users/jwduper/Desktop/web_projects/js practices/tert.js",
+		"/C/Users/jwduper/Desktop/web_projects/js practices/createhtml.html",
+		"/C/Users/jwduper/Desktop/web_projects/js practices/object.js",
+		"/C/Users/jwduper/Desktop/web_projects/js practices/fun.html",
+		"/C/Users/jwduper/Desktop/web_projects/js practices/func.html",
+		"/C/Users/jwduper/Desktop/web_projects/js practices/function.js",
+		"/C/Users/jwduper/Desktop/web_projects/js practices/function.html",
+		"/C/Users/jwduper/Desktop/web_projects/test_sites/optional/scripts/getto.js",
+		"/C/Users/jwduper/Desktop/web_projects/practices/home.html",
+		"/C/Users/jwduper/Desktop/web_projects/practices/formultiplexample.html",
+		"/C/Users/jwduper/Desktop/web_projects/practices/defaulting.html",
+		"/C/Users/jwduper/Desktop/web_projects/practices/responivemenu.html",
+		"/C/Users/jwduper/Desktop/web_projects/practices/css/defaultstyle.css",
+		"/C/Users/jwduper/Desktop/web_projects/practices/js practices/allhtmltags.html",
+		"/C/Users/jwduper/Downloads/p5/p5-zip/empty-example/index.html",
+		"/C/Users/jwduper/Downloads/p5/p5-zip/empty-example/sketch.js",
+		"/C/Users/jwduper/Downloads/Developper - Programmer/sublime text 3/Packages/bs3-sublime-plugin/README.md",
+		"/C/Users/jwduper/Desktop/web_projects/practices/js practices/createhtml.html",
+		"/C/Users/jwduper/Desktop/web_projects/practices/js practices/createhtmljs.js",
+		"/C/Users/jwduper/Desktop/web_projects/practices/drop.html",
+		"/C/Users/jwduper/Desktop/web_projects/practices/drop.css",
+		"/C/Users/jwduper/Downloads/apm-master/apm-master/README.md",
+		"/C/Users/jwduper/.atom/.apm/.apmrc",
+		"/C/Users/jwduper/Downloads/onclick-dropdown/index.html",
+		"/C/Users/jwduper/Downloads/onclick-dropdown/js/index.js",
+		"/C/Users/jwduper/Desktop/web_projects/Templates/css3_tabbed_nav/index.html",
+		"/C/Users/jwduper/Desktop/web_projects/Templates/css3_tabbed_nav/css/style.css",
+		"/C/Users/jwduper/Desktop/web_projects/Templates/css3_tabbed_nav/js/script.js",
+		"/C/Users/jwduper/Desktop/web_projects/Templates/css3_tabbed_nav/__MACOSX/index.html",
+		"/C/Users/jwduper/Desktop/web_projects/practices/css/mobile.css",
+		"/C/Users/jwduper/Desktop/web_projects/practices/indexheaderfooterfixed.html",
+		"/C/Users/jwduper/Desktop/web_projects/practices/second.html",
+		"/C/Users/jwduper/Desktop/web_projects/practices/emmet.html",
+		"/C/Users/jwduper/AppData/Roaming/Notepad++/plugins/config/new.html",
+		"/C/Users/jwduper/Desktop/web_projects/practices/main.css",
+		"/C/Users/jwduper/Desktop/web_projects/practices/beginner-html-site-styled-gh-pages/index.html",
+		"/C/Users/jwduper/Desktop/web_projects/practices/beginner-html-site-styled-gh-pages/styles/style.css",
+		"/C/Users/jwduper/Desktop/web_projects/practices/beginner-html-site-styled-gh-pages/scripts/main.js",
+		"/C/Users/jwduper/Desktop/web_projects/practices/create_something/styles.css",
+		"/C/Users/jwduper/Desktop/web_projects/practices/create_something/index.html",
+		"/C/Users/jwduper/Downloads/Developper - Programmer/uiso9_pe.zip",
+		"/C/Users/jwduper/AppData/Roaming/Sublime Text 3/Packages/User/Package Control.sublime-settings",
+		"/C/Users/jwduper/Desktop/web_projects/practices/create_something/main.js",
+		"/C/Users/jwduper/Desktop/web_projects/practices/create_something/menu.css",
+		"/C/Users/jwduper/AppData/Roaming/Sublime Text 3/Packages/A File Icon/.sublime/A File Icon.sublime-settings",
+		"/C/Users/jwduper/AppData/Roaming/Sublime Text 3/Packages/User/A File Icon.sublime-settings",
+		"/C/Users/jwduper/AppData/Roaming/Sublime Text 3/Packages/CSSFontFamily/CSSFontFamily.sublime-settings",
+		"/C/Users/jwduper/AppData/Roaming/Sublime Text 3/Packages/User/CSSFontFamily.sublime-settings",
+		"/C/Users/jwduper/AppData/Roaming/Sublime Text 3/Packages/Emmet/Emmet.sublime-settings",
+		"/C/Users/jwduper/Desktop/web_projects/practices/create_something/free.scss",
+		"/C/Users/jwduper/AppData/Roaming/Sublime Text 3/Packages/User/Emmet.sublime-settings"
+	],
+	"find":
+	{
+		"height": 26.0
+	},
+	"find_in_files":
+	{
+		"height": 132.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"h1",
+			"h5",
+			"a",
+			"</a>",
+			"dt",
+			"</a>",
+			"section",
+			"h2",
+			"class=\"social-contact\"",
+			"p",
+			"div",
+			"button",
+			"<li><a href=\"\"></a></li>",
+			"100",
+			"a"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"folders":
+	[
+		{
+			"path": "C:\\Users\\jwduper\\Desktop\\web_projects\\test_sites\\optional"
+		}
+	],
+	"groups":
+	[
+		{
+			"selected": 1,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "heading.css",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 663,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								170,
+								184
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/CSS/CSS.sublime-syntax"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 4,
+					"type": "text"
+				},
+				{
+					"buffer": 1,
+					"file": "/C/Users/jwduper/Desktop/web_projects/test_sites/optional/bluecolor.txt",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 135,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								130,
+								130
+							]
+						],
+						"settings":
+						{
+							"auto_name": "rgb(0, 0, 23);",
+							"syntax": "Packages/Text/Plain text.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 0,
+					"type": "text"
+				},
+				{
+					"buffer": 2,
+					"file": "/C/Users/jwduper/Desktop/web_projects/test_sites/optional/index.html",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 6666,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								21,
+								21
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/HTML/HTML.sublime-syntax",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 3,
+					"type": "text"
+				},
+				{
+					"buffer": 3,
+					"file": "/C/Users/jwduper/Desktop/web_projects/test_sites/optional/mizik.html",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 3525,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/HTML/HTML.sublime-syntax",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 880.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 2,
+					"type": "text"
+				},
+				{
+					"buffer": 4,
+					"file": "boxestyle.css",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 1597,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								1184,
+								1199
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/CSS/CSS.sublime-syntax",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 1320.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 1,
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 26.0
+	},
+	"input":
+	{
+		"height": 42.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "",
+	"project": "",
+	"replace":
+	{
+		"height": 48.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"moz",
+				"mozilla develloper network\\beginner-html-site-styled-gh-pages\\index.html"
+			]
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": true,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 168.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}

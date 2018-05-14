@@ -1,0 +1,78 @@
+@media screen and (max-width: 500px) {
+   
+    header, nav  {
+        display: block;
+        border: 1px solid lightblue;
+    }
+.box-container, main.box-articles {
+    display: flex;
+    flex-wrap: wrap;
+}
+
+.box, .first-article, .second-article, .third-article {
+    flex: 1;
+    flex-basis: 100%;
+}
+
+#contact, .home-contact, .home-social {
+        margin: 0 auto;
+        padding: 0;
+        width: 100%;
+    }
+
+#contact ul li  {
+    border-bottom: 1px groove royalblue;
+    width: 100%;
+    padding: 7px;
+    text-align: center;
+}
+
+
+#contact ul li a {
+    color: lightblue;
+    border-radius: 7px;
+    font-weight: bolder;
+    
+}
+
+
+#menu-button {
+    color: white;
+    background: rgb(0, 0, 23);
+    width: 25px;
+    padding: 3px 8px 4px 8px;
+    font-size: 1em;
+    text-transform: capitalize;
+    display: block; 
+}
+
+#menu-button span {
+    border-bottom: 2px white solid;
+    display: block;
+    padding: 3px;
+}
+
+.hide {
+    display: none;
+}
+
+.box-articles {
+    display: flex;
+    flex-flow: row wrap;
+}
+
+p {
+    font-size: 1.5em;
+    padding: 7px;
+}
+
+footer {
+    display: flex;
+    flex-wrap: wrap;
+}
+.footer-box {
+    flex-basis: 50%;
+    flex: 1;
+}
+
+}

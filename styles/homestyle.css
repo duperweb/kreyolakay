@@ -1,0 +1,131 @@
+/*all that is child of the header*/
+header {
+	background-color: rgb(0, 0, 23);
+	color: lightblue;
+	display: flex;
+	text-transform: uppercase;
+}
+nav {
+	background-color: rgb(0, 0, 34); 
+	color: lightblue;
+	flex: 1;
+	display: flex;
+	padding: 10px;	
+}
+nav.contact ul li {list-style-type: none;}
+.header-logo, .home-contact, .social-contact {flex: 1;}
+#menu-button {display: none;}
+
+#slide-button {
+	color: white;
+    background: #012549;
+    width: 25px;
+    padding: 3px 8px 4px 8px;
+    font-size: 1em;
+    text-transform: capitalize;
+    display: block  ; 
+}
+#slide-button span {
+    border-left: 2px white solid;
+    display: inline;
+    padding: 3px;
+}
+#nav-menu {justify-content: center;}
+
+#nav-menu  li  {
+	display: inline;
+	padding: 12px;
+} /*ALL SELECTORS OF THE HEADER HAS ENDED HERE*/
+
+
+main.box-articles {
+	display: flex;
+	flex-basis: 90%;
+	margin: 0 auto;
+	justify-content: space-between;
+	flex-wrap: wrap;
+}
+
+.first-article, .second-article, .third-article  {
+	flex: 1;
+	padding: 10px;
+	box-sizing: border-box;
+}
+
+.h-article {
+	border: 1px groove  rgb(0, 0, 34);
+	text-align: center;
+	padding: 7px;
+	text-transform: uppercase;
+	height: auto;
+}
+.h-article a {color: rgb(0, 0, 34);}
+/*-------------end of this articles section---------------------*/
+
+/*this the contaoner, make it flexible to manipulating its choldren*/
+.box-container {
+	display: flex;
+	background-image: url(../images/navysky.jpg);
+	justify-content: space-between;
+}
+
+/* this box is the child of the box container*/
+.box {
+	flex: 1;
+	width: 30%;
+	padding: 10px;
+	box-sizing: border-box;
+	background-image: url(../images/radient.jpg);
+	border: 2px groove lightskyblue;
+	color: #8DC8F3;;
+	height: auto;
+	text-align: center;
+}
+
+ul {list-style-type: none;}
+
+.box ul li {
+	border: 4px groove royalblue;
+	padding: 10px;
+	justify-content: space-between;
+}
+/*---- referans----*/
+.box-toggleable {
+	background: rgb(18, 34, 62);
+	border: 1px groove royalblue;
+	font-size: 15px;
+	padding: 10px;
+	max-width: 200px;
+}
+.box-toggleable .hide-content {
+	display: none;
+}
+
+.box-toggleable:hover .hide-content {
+display: block;
+}
+
+.hide-content {padding: 10px;}
+
+.box-block {
+	background: rgb(18, 34, 62);
+	display: flex;
+	position: relative;
+	bottom: 0;
+	width: 100%;
+}
+.box-item {
+	flex: 1;
+	border: 5px inset rgb(29, 29, 65);
+}
+
+		/*=====================FOOTER==================*/
+/*that belongs to the footer*/
+footer {
+    background: rgb(0, 0, 23);
+    display: flex;
+    bottom: 0;
+    width: 100%;
+}
+footer ul.footer-box {flex: 1;}
+
